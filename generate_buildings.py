@@ -1,0 +1,24 @@
+import pandas as pd
+
+buildings = [
+    ["Building A", "Residential", "Delhi", 1200, 2018],
+    ["Building B", "Commercial", "Noida", 3500, 2020],
+    ["Building C", "Hospital", "Gurugram", 5000, 2016],
+    ["Building D", "School", "Delhi", 2800, 2019],
+    ["Building E", "Office", "Faridabad", 4500, 2021]
+]
+
+df = pd.DataFrame(
+    buildings,
+    columns=[
+        "building_name",
+        "building_type",
+        "city",
+        "area_sqft",
+        "installation_year"
+    ]
+)
+
+df.to_csv("data/buildings.csv", index=False)
+
+print("buildings.csv created successfully!")

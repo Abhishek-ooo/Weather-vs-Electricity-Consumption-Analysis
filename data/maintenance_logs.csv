@@ -1,0 +1,21 @@
+building_id,sensor_id,maintenance_date,issue,technician,status
+1,1,2025-01-08,Calibration,Technician 1,Completed
+2,2,2025-10-20,Sensor Failure,Technician 2,Completed
+3,3,2025-10-12,Routine Maintenance,Technician 3,Pending
+4,4,2025-10-04,Sensor Failure,Technician 4,In Progress
+5,5,2025-05-26,Cable Damage,Technician 5,Pending
+6,6,2025-05-19,Sensor Failure,Technician 6,In Progress
+7,7,2025-12-27,Cable Damage,Technician 7,In Progress
+8,8,2025-12-07,Routine Maintenance,Technician 8,Completed
+9,9,2025-11-14,Power Loss,Technician 9,In Progress
+10,10,2025-04-25,Sensor Failure,Technician 10,Pending
+11,11,2025-10-22,Power Loss,Technician 11,Pending
+12,12,2025-09-24,Routine Maintenance,Technician 12,In Progress
+13,13,2025-11-13,Calibration,Technician 13,In Progress
+14,14,2025-12-24,Calibration,Technician 14,In Progress
+15,15,2025-05-08,Routine Maintenance,Technician 15,Completed
+16,16,2025-09-05,Power Loss,Technician 16,In Progress
+17,17,2025-09-23,Cable Damage,Technician 17,Completed
+18,18,2025-10-16,Power Loss,Technician 18,Completed
+19,19,2025-01-09,Calibration,Technician 19,Completed
+20,20,2025-10-19,Power Loss,Technician 20,Completed

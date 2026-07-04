@@ -1,0 +1,6 @@
+city,unit_price,peak_hour_price,effective_from
+Delhi,8.5,11.0,2025-01-01
+Noida,8.2,10.5,2025-01-01
+Gurugram,8.8,11.2,2025-01-01
+Faridabad,8.0,10.3,2025-01-01
+Ghaziabad,8.3,10.7,2025-01-01
